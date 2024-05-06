@@ -1,0 +1,1 @@
+Following the Odin Project, I will be creating a simple recipe website. This uses basic skills including creating multiple pages, using relative and absolute paths, adding images, and adding tags. 
