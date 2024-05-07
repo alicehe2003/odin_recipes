@@ -1,0 +1,20 @@
+h1.heading {
+    color: rgb(55, 125, 255);
+}
+
+.heading {
+    background-color: aliceblue;
+    color: rgb(100, 146, 255);
+    text-align: center;
+}
+
+p, li {
+    color: rgb(255, 91, 118);
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
